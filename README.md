@@ -1,11 +1,11 @@
 # BaiDuNetDisk-UNlimted-Download-Muti-Save
 使用Cookie不限速+文件转存
 
-##此获取链接方法在2022年2月时已失效！
+## 此获取链接方法在2022年2月时已失效！
 
-##继续使用可能导致封号
+## 继续使用可能导致封号
 
-##新版：https://ntgpro.lanzoum.com/iA6ji02fzyif
+## 新版：https://ntgpro.lanzoum.com/iA6ji02fzyif
 
 编译与构建：
 
