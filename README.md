@@ -1,11 +1,11 @@
 # BaiDuNetDisk-UNlimted-Download-Muti-Save
 使用Cookie不限速+文件转存
 
-## 此获取链接方法在2022年2月时已失效！
+## 此获取链接方法在2022年2月时已失效！已做归档处理
 
-## 继续使用可能导致封号
+## 继续使用可能导致封号, 新方法如下
 
-## 新版：https://ntgpro.lanzoum.com/iA6ji02fzyif
+<h1><a href="https://github.com/shenao1100/Baidu_Netdisk_thirdpart">点此跳转</a></h1>
 
 编译与构建：
 
